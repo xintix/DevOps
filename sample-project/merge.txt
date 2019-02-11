@@ -1,2 +1,2 @@
-hhhhhh
-added git merge2 conflict
+Bniewe
+Merge1 conflict
