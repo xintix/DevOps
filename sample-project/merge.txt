@@ -1,3 +1,4 @@
-Old merge file changed
+Merge1
+Insert neAdded git merge2 conflict
 New text added
 New line
