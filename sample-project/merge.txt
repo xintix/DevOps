@@ -1,1 +1,2 @@
 Merge1 conflict
+added git merge2 conflict
