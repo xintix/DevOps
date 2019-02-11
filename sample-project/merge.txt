@@ -1,2 +1,3 @@
 hhhhhh
-added git merge2 conflict
+Insert neAdded git merge2 conflict
+New text added
