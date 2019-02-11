@@ -1,2 +1,2 @@
-Created on fb1
-Conflict 1
+Created on fb2
+Conflict 2
