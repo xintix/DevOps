@@ -1,2 +1,2 @@
-Merge1 conflict
+hhhhhh
 added git merge2 conflict
